@@ -4,8 +4,8 @@ Egy egészen egyszerű tipikus Snake játék Pythonban, Pygame segítségével.
 
 ### Írányítás
 
-⬆    -   felfelé megy a kígyó
-⬇    -   lefelé
-⬅  -   ballra
-➡  -   jobbra
+⬆    -   felfelé<br />
+⬇    -   lefelé<br /> 
+⬅  -   ballra<br /> 
+➡  -   jobbra<br /> 
 
